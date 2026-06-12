@@ -13,7 +13,7 @@ method for choosing the right answer.
 > included (see *Sources* below).
 
 <p align="center">
-  <img src="assets/graph.png" alt="CCA-F study wiki as an Obsidian graph" width="480"><br>
+  <img src="assets/graph.png" alt="CCA-F study wiki as an Obsidian graph" width="300"><br>
   <sub><em>The wiki as a knowledge graph — the five blue nodes are the exam-domain hubs; every concept and decision page links into them.</em></sub>
 </p>
 
