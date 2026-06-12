@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"sources\" -path:\"start-here\" -file:index -file:log -file:README -file:CLAUDE",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:domain-",
+      "color": {
+        "a": 1,
+        "rgb": 2450411
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.5,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.2,
+  "repelStrength": 16,
+  "linkStrength": 0.6,
+  "linkDistance": 320,
+  "scale": 0.1844061054992175,
+  "close": true
+}

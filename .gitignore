@@ -1,0 +1,19 @@
+# OS / editor cruft
+.DS_Store
+*.tmp
+*.swp
+.vscode/
+.idea/
+node_modules/
+.trash/
+
+# Raw source PDFs are NOT redistributed (personal notes / possible third-party
+# material). The wiki itself is the shareable, original artifact. The .meta.md
+# files describe each source, so citations still resolve without the PDFs.
+sources/*.pdf
+
+# Obsidian: share the graph + appearance config, but not personal pane layout
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
