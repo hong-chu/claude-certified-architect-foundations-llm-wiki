@@ -84,5 +84,5 @@ style (one-line summary, `## Sources`, `## Continue reading`,
 
 ## License
 
-Not yet finalized. Until a license is added, please ask before
-redistributing. (Suggested: CC BY 4.0 for the wiki content.)
+[CC BY 4.0](LICENSE) — share and adapt freely, with attribution.
+© 2026 Hong Chu.
