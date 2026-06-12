@@ -12,6 +12,11 @@ method for choosing the right answer.
 > [Anthropic docs](https://docs.anthropic.com). Raw source PDFs are not
 > included (see *Sources* below).
 
+## 📝 How I passed in 2 weeks
+
+Companion write-up on the strategy behind this wiki:
+**[How I Passed the Claude Certified Architect – Foundations (CCA-F) Exam in 2 Weeks](https://medium.com/@yeesun.chu/how-i-passed-the-claude-certified-architect-foundations-cca-f-exam-in-2-weeks-6b967e6effb4)** (Medium).
+
 ## How to use it
 
 - **Browse on GitHub** — every page is plain Markdown; start with
