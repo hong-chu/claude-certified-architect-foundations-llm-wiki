@@ -12,10 +12,10 @@ method for choosing the right answer.
 > [Anthropic docs](https://docs.anthropic.com). Raw source PDFs are not
 > included (see *Sources* below).
 
-![CCA-F study wiki as an Obsidian graph](assets/graph.png)
-
-*The wiki as a knowledge graph — the five blue nodes are the exam-domain
-hubs; every concept and decision page links into them.*
+<p align="center">
+  <img src="assets/graph.png" alt="CCA-F study wiki as an Obsidian graph" width="480"><br>
+  <sub><em>The wiki as a knowledge graph — the five blue nodes are the exam-domain hubs; every concept and decision page links into them.</em></sub>
+</p>
 
 ## 📝 How I passed in 2 weeks
 
