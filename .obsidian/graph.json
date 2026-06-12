@@ -1,9 +1,9 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"sources\" -path:\"start-here\" -file:index -file:log -file:README -file:CLAUDE",
+  "search": "path:wiki -path:\"start-here\" -file:index -file:log",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -22,9 +22,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.2,
-  "repelStrength": 16,
+  "repelStrength": 20,
   "linkStrength": 0.6,
   "linkDistance": 320,
-  "scale": 0.1844061054992175,
+  "scale": 0.21244481949859448,
   "close": true
 }

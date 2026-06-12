@@ -21,10 +21,16 @@ Companion write-up on the strategy behind this wiki:
 
 - **Browse on GitHub** — every page is plain Markdown; start with
   [`wiki/index.md`](wiki/index.md).
-- **Best: open in [Obsidian](https://obsidian.md)** — *Open folder as
-  vault* → select this repo. You get working `[[wiki-links]]`,
+- **Visualization: open in [Obsidian](https://obsidian.md)** — *Open
+  folder as vault* → select this repo. You get working `[[wiki-links]]`,
   backlinks, and a graph view (pre-configured to highlight the five
   domain hubs).
+- **Best: ask your AI to study with you** — point an AI coding agent
+  (Claude Code, Cursor, Codex, …) at this repo and have it tutor you
+  from the wiki: quiz you on a domain, explain a decision pair, walk
+  the root-cause decision tree on a practice question, or drill the
+  traps. The agent reads [`CLAUDE.md`](CLAUDE.md) and the pages and
+  works straight from them.
 
 **Start here:** [`wiki/start-here/00-overview.md`](wiki/start-here/00-overview.md)
 → then read the five domain folders in weight order.
