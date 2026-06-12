@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:wiki -path:\"start-here\" -file:index -file:log",
   "showTags": false,
   "showAttachments": false,
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": 1.5,
   "nodeSizeMultiplier": 2.5,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.2,
-  "repelStrength": 20,
+  "repelStrength": 12.1996527777778,
   "linkStrength": 0.6,
   "linkDistance": 320,
-  "scale": 0.21244481949859448,
+  "scale": 0.286089532998113,
   "close": true
 }
